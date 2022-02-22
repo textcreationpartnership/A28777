@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The booke of common prayer, now used in the Church of England, vindicated from the aspertion of all schismaticks, anabaptists, Brownists, and separatists Proving and maintaining, that the English common prayer as now it is, was made and compyled by many most reverend divines of our church in the raigne of that ever-famous and first confirmer of the Protestant religion in England, King Edward the sixth. With a true catalogue of their names and dignities, collected from the records of Parliament rolles in the Tower. Together with a discovery of a sort of people called rebaptists, lately found out in Hackney Marsh neere London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28777</idno>
+            <idno type="STC">Wing B3704A</idno>
+            <idno type="STC">ESTC R212992</idno>
+            <idno type="EEBO-CITATION">99825534</idno>
+            <idno type="PROQUEST">99825534</idno>
+            <idno type="VID">29918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1755:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The booke of common prayer, now used in the Church of England, vindicated from the aspertion of all schismaticks, anabaptists, Brownists, and separatists Proving and maintaining, that the English common prayer as now it is, was made and compyled by many most reverend divines of our church in the raigne of that ever-famous and first confirmer of the Protestant religion in England, King Edward the sixth. With a true catalogue of their names and dignities, collected from the records of Parliament rolles in the Tower. Together with a discovery of a sort of people called rebaptists, lately found out in Hackney Marsh neere London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Union Theological Seminary (New York) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29918:1"/>
+            <pb facs="tcp:29918:1" rendition="simple:additions"/>
+            <p>THE BOOKE OF Common Prayer, now uſed in the Church of ENGLAND, Vindicated from the aſpertion of all Schiſmatickes, Anabaptiſts, Browniſts, and Seperatiſts.</p>
+            <p>Proving and maintaining, that the Engliſh Common Prayer as now it is, was made and compyled by many moſt Reverend Divines of our Church in the Raigne of that ever-famous and firſt confirmer of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion in <hi>England,</hi> King <hi>Edward</hi> the ſixth.</p>
+            <p>With a true Catalogue of their names and dignities, collected from the records of Parliament Rolles in the Tower.</p>
+            <p>Together with a diſcovery of a ſort of people called Rebaptiſts, lately found out in <hi>Hackney</hi> Marſh neere <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="defense_of_the_Book_of_Common_Prayer">
+            <pb facs="tcp:29918:2"/>
+            <pb facs="tcp:29918:2" rendition="simple:additions"/>
+            <head>The book of com<g ref="char:EOLhyphen"/>mon prayer now uſed in the Church of <hi>England,</hi> vindicated from ſchiſme and errours.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is very well knowne, to moſt profeſſors of the proteſtant Re<g ref="char:EOLhyphen"/>ligion in the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that the reformation (ful<g ref="char:EOLhyphen"/>ly to be effected) began in the Raigne of that ever-famous Prince King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſixth, whoſe pious and godly care was ſuch, that with the advice of his moſt reverend and worthy Divines, an uniforme Booke of common prayers, and forth with complyed, and by act of Parliament, then fully confirmed, fur<g ref="char:EOLhyphen"/>thered the ſubſequent yeares, of his ever deare ſiſter, Queen Elizabeth of everlaſting renowne: it was more amply manifeſted by acts of Parlia<g ref="char:EOLhyphen"/>ment and Proclamation to her Eternall praiſe, and Gods glory, and the joy of all Proteſtant profeſſours throughout the Chriſtian world, all whoſe times it ſo continued with generall ap<g ref="char:EOLhyphen"/>plauſe.</p>
+            <p>And ſince, hath beene upholden by two moſt
+<pb n="3" facs="tcp:29918:3"/>renowned and religious Princes, King <hi>Iames</hi> of bleſſed memory deceaſed, and King <hi>Charles</hi> our dread Soveraigne now raigning over us, whom God long preſerve, till of late ſchiſme and facti<g ref="char:EOLhyphen"/>on ariſing in the Malignant ſpirits of ſome Browniſts, Seperatiſts, Anabaptiſts, who like the Egiptian locuſts ſwarme in every corner of the City and Kingdome, and having of late got a head, began to oppoſe and ſpurne at that anci<g ref="char:EOLhyphen"/>ent monument, defiling of it, with their op<g ref="char:EOLhyphen"/>probrious tongues, and as much, as in them lies, ſeeking utterly to treade it under foot, and quite aboliſh the ſame, by calling it popiſh, and ſuper<g ref="char:EOLhyphen"/>ſtitious, others by taxing of it, <hi>viz.</hi> The Letta<g ref="char:EOLhyphen"/>ny, to be in part conjuration, and ſuch like charms or witchcrafts, to the great hearts griefe of good Proteſtants, and true profeſſours of the Goſpell of Chriſt, now hath it beene, depraved and reviled by thoſe Ignorant, haire-brained, and Illitterate fellowes, who doe all things, by the motions of their unguided, unlearned, un<g ref="char:EOLhyphen"/>adviſed, and fooliſh raſh ſpirits, as they boldly in great multitudes from time, to time, moſt impudently ſeeke to maintaine.</p>
+            <p>Proofes of the holy Scripture alleadged in Iuſtiſication of the Booke of Common Prayer, now uſed in the Church of <hi>England.</hi>
+            </p>
+            <p>Firſt, THat Go himſelfe appointed in the Law, a ſet forme of Benediction, <hi>Numb;</hi> 6.23.24, 25.26.</p>
+            <p>Secondly, that <hi>David</hi> himſelfe, ſet Pſalmes
+<pb n="4" facs="tcp:29918:3"/>to be ſung upon ſpeciall occaſions, as the title of them ſheweth,</p>
+            <p>Thirdly; That the Prophet <hi>Ioell,</hi> appointed a ſet forme of Prayer, to be uſed by the Prieſts at ſolemne faſt; <hi>Ioell</hi> 2.7.</p>
+            <p>Fourthly that Chriſt not onely commandes us to pray, after ſuch manner, <hi>Mat.</hi> 6.9. But to uſe a ſet forme of wordes, <hi>Luk.</hi> 11.2. when ye pray, ſay <hi>our Father.</hi>
+            </p>
+            <p>Fiftly. The ſpirit of God is no more reſtrai<g ref="char:EOLhyphen"/>ned by uſing a ſet forme of Prayer, then by ſing<g ref="char:EOLhyphen"/>ing ſet hymnes, or Pſalmes in meeter, which yet the adverſaries of our Common Prayer, prac<g ref="char:EOLhyphen"/>tice in their aſſemblies.</p>
+            <p>Sixtly, Of all prayers, premeditated are the beſt, <hi>Eccle.</hi> 5, 2.</p>
+            <p>Seventhly, And of premeditated prayers, thoſe which are allowed by publike Authority, are to be preferred above thoſe, which are utter<g ref="char:EOLhyphen"/>ly by any private ſpirit.</p>
+            <p>Eightly, All the Churches in the Chriſtian world, in the firſt and beſt times, had their beſt formes of Liturgies, whereof moſt are extent in the writings of the Fathers unto this day.</p>
+            <p>Ninethly, Let our ſervice booke be compa<g ref="char:EOLhyphen"/>red with the French, Dutch, or any other Lit<g ref="char:EOLhyphen"/>turgy prefered in any of the reformed Church<g ref="char:EOLhyphen"/>es, and it will appeare to any indifferent Rea<g ref="char:EOLhyphen"/>der, that it is more exact, and compleat then any of them.</p>
+            <p>Tenthly, Our Service booke was penned and allowed of, not only by many learned Doctors'
+<pb n="5" facs="tcp:29918:4"/>but glorious Martyrs, who ſealed the truth of the reformed Religion with their blood, now what thoſe moſt reverend Compylers of the book of Common Prayer as it now is, this enſu<g ref="char:EOLhyphen"/>ing Table will truly and really dili<g ref="char:EOLhyphen"/>neate.</p>
+            <div type="part">
+               <pb facs="tcp:29918:4"/>
+               <head>
+                  <list>
+                     <head>The compylers of the Engliſh Com<g ref="char:EOLhyphen"/>mon Prayer as it now is.</head>
+                     <item>Doctor <hi>Cranmer</hi> Archbiſhop of <hi>Canterbury.</hi>
+                     </item>
+                     <item>Doctor <hi>Goodricke</hi> Biſhop of <hi>Ely,</hi>
+                     </item>
+                     <item>Doctor <hi>Skipp</hi> Biſhop of <hi>Hereford</hi>
+                     </item>
+                     <item>Doctor <hi>Thirlby</hi> Biſhop of <hi>Wincheſter</hi>
+                     </item>
+                     <item>Doctor <hi>Day</hi> Biſhop of <hi>Chicheſler</hi>
+                     </item>
+                     <item>Doctor <hi>Holheck</hi> Biſhop of <hi>Lincolne</hi>
+                     </item>
+                     <item>Doctor <hi>Ridley</hi> Biſhop of <hi>Rocheſler</hi>
+                     </item>
+                     <item>Doctor <hi>Gox</hi> King <hi>Edwards</hi> Almoner.</item>
+                     <item>Maſter <hi>Taylor</hi> Deane of <hi>Lincolne</hi>
+                     </item>
+                     <item>Maſter <hi>Heynes</hi> Deane of <hi>Exeter</hi>
+                     </item>
+                     <item>Maſter <hi>Redman</hi> Deane of <hi>Weſtminſter</hi>
+                     </item>
+                     <item>Maſter <hi>Robinſon</hi> Archdeacon of <hi>Leiceſter</hi>
+                     </item>
+                  </list>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>Menſe Maii. 1541.</date>
+                  </dateline>
+               </opener>
+               <p>VVhat grounds then have theſe Factions, and ſchiſinaticall people, ſeing it is demonſtra<g ref="char:EOLhyphen"/>ted unto us, to be both lawfull and neceſſary in the Church, both by the word of God, and the learned Fathers in thoſe times, but what can wee expect from a Mechanicke and Illiterate people, whoſe unſeemely G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtures, are dayly apparant to the eye of the world, witneſſe their Riotous, and uncivill diſorders in the ſtreets, on the Sabbath day, at the Church doore, un<g ref="char:EOLhyphen"/>till divine ſervice be read, talking all the while of pro<g ref="char:EOLhyphen"/>phane and Idle matters, a rude and Ignorant fellow of that ſect, violently tore a great part of a Communion
+<pb n="8" facs="tcp:29918:5" rendition="simple:additions"/>book in a Church in <hi>London</hi> lately, And being brought before authority for the ſame, anſwered nothing for himſelfe, but that he could not abide in it, however hee was not ſuffered to paſſe ſo impudently without puniſhment, for he was comitted and ſuffered accor<g ref="char:EOLhyphen"/>dingly, many other in divers places of this Kingdome, have committed many ſuch like outrages, inſolencies, againſt Church Government, and if there bee, not ſome courſe taken for the ſuppreſſion of ſuch outra<g ref="char:EOLhyphen"/>ges, a great confuſion is feared thereby to fall upon our Church; and for thoſe, that have boldly taken up<g ref="char:EOLhyphen"/>on them in private holes and corners, to blaſt the wor<g ref="char:EOLhyphen"/>thy antiquity thereof, by their violent pens, but thanks be given to God, Revend Divines have vindicated the cauſe thereof, by the holy Scriptures, both in print and Pulpit to the ſhame of all oppoſers whatſoever.</p>
+            </div>
+            <div type="part">
+               <head>The diſcovery of a baſe ſect of people called <hi>Rebaptiſts, lately found out in</hi> Hackney <hi>Maſh neere</hi> London.</head>
+               <p>ABout a Fortnight ſince a great multitude of people were met going towards the river in Hackney Marſh, and were followed to the water ſide, where they all were Baptized againe, themſelves doing it one to another, ſome of which perſons, were ſo feeble and aged, that they were fayne to Ride on Horſebacke thi<g ref="char:EOLhyphen"/>there this was wel obſerved by many of the Inhabitants living there abouts, and afterwards one of them Chri<g ref="char:EOLhyphen"/>ſtened his owne Child, and another tooke upon him to Church his owne wife, an Abominable Act, and full of groſſe Impiety.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29918:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
